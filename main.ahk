@@ -112,7 +112,7 @@ ci() {
 !t:: turnOffMonitor()
 !m:: stretchly("mini")
 !l:: stretchly("long")
-!d:: switchTheme()
+!a:: switchTheme()
 ; F6:: {
 ;   stretchly("toggle")
 ;   Run("Snipaste toggle-hotkeys")
