@@ -110,8 +110,8 @@ ci() {
 ; !s:: switchEditor()
 !r:: Reload
 !t:: turnOffMonitor()
-!m:: stretchly("mini")
-!l:: stretchly("long")
+; !m:: stretchly("mini")
+; !l:: stretchly("long")
 !a:: switchTheme()
 ; F6:: {
 ;   stretchly("toggle")
